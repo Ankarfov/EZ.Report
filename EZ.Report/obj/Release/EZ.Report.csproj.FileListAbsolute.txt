@@ -1,0 +1,17 @@
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\bin\Release\EZ.Report.exe.config
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\bin\Release\EZ.Report.exe
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\bin\Release\EZ.Report.pdb
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\MainWindow.g.cs
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\App.g.cs
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\EZ.Report_MarkupCompile.cache
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\EZ.Report_MarkupCompile.lref
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\MainWindow.baml
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\EZ.Report.g.resources
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\EZ.Report.Properties.Resources.resources
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\EZ.Report.csproj.GenerateResource.cache
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\EZ.Report.csproj.CoreCompileInputs.cache
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\EZ.Report.exe
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\EZ.Report.pdb
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\EZ.Report.csproj.AssemblyReference.cache
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\Settings.g.cs
+P:\Visual Studio Projects\Projects\EZ.Report\EZ.Report\obj\Release\Settings.baml

@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71949CA6-4BD9-415D-9A38-0DED37F819B5}|EZ.Report\\EZ.Report.csproj|p:\\visual studio projects\\projects\\local\\ez.report\\ez.report\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71949CA6-4BD9-415D-9A38-0DED37F819B5}|EZ.Report\\EZ.Report.csproj|solutionrelative:ez.report\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71949CA6-4BD9-415D-9A38-0DED37F819B5}|EZ.Report\\EZ.Report.csproj|P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\ez.report\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71949CA6-4BD9-415D-9A38-0DED37F819B5}|EZ.Report\\EZ.Report.csproj|solutionrelative:ez.report\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71949CA6-4BD9-415D-9A38-0DED37F819B5}|EZ.Report\\EZ.Report.csproj|P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\ez.report\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{71949CA6-4BD9-415D-9A38-0DED37F819B5}|EZ.Report\\EZ.Report.csproj|solutionrelative:ez.report\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71949CA6-4BD9-415D-9A38-0DED37F819B5}|EZ.Report\\EZ.Report.csproj|P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\ez.report\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71949CA6-4BD9-415D-9A38-0DED37F819B5}|EZ.Report\\EZ.Report.csproj|solutionrelative:ez.report\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EZ.Report||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Settings.xaml.cs",
+              "DocumentMoniker": "P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\EZ.Report\\Settings.xaml.cs",
+              "RelativeDocumentMoniker": "EZ.Report\\Settings.xaml.cs",
+              "ToolTip": "P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\EZ.Report\\Settings.xaml.cs",
+              "RelativeToolTip": "EZ.Report\\Settings.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-10-12T12:14:33.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report.cs",
+              "DocumentMoniker": "P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\EZ.Report\\Report.cs",
+              "RelativeDocumentMoniker": "EZ.Report\\Report.cs",
+              "ToolTip": "P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\EZ.Report\\Report.cs",
+              "RelativeToolTip": "EZ.Report\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-10-12T12:14:33.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EZ.Report",
+              "DocumentMoniker": "P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\EZ.Report\\EZ.Report.csproj",
+              "RelativeDocumentMoniker": "EZ.Report\\EZ.Report.csproj",
+              "ToolTip": "P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\EZ.Report\\EZ.Report.csproj",
+              "RelativeToolTip": "EZ.Report\\EZ.Report.csproj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADlSURBVDhPYxhwwAgiMjMz/799\u002BxYsQCwQFhZmmD59OiMLiAPS3N/fD5YgFhQWFoJpJjBJAUAx4NffXwwTjk9gCF0RyhC9Jpph953dYHGr2VYoNDJAMWDG6RkMn39\u002BZlgWtoxhachSBhsFGwzN6IagGLDz9k6GTLNMBlYmVjCfk4WT4VjqMTAbnYYBFAN\u002B/vnJwMIEDlc4IMkFFnIWDPPPzWf4\u002B/8vw////xm\u002B/PpCmguKrYoZ3nx7wxCyPIQhak0Uw7ln58DiuDSDAIp7BTkFGVpdWqE84gCKC8gBFCdlKHfAAAMDAL0bWuvhSIWKAAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-04-14T14:29:05.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\EZ.Report\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EZ.Report\\MainWindow.xaml",
+              "ToolTip": "P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\EZ.Report\\MainWindow.xaml",
+              "RelativeToolTip": "EZ.Report\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-12T12:14:33.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\EZ.Report\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EZ.Report\\MainWindow.xaml.cs",
+              "ToolTip": "P:\\Visual Studio Projects\\Projects\\Local\\EZ.Report\\EZ.Report\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EZ.Report\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFwBAAAAAAAAAADwv3sBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-12T12:14:33.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
